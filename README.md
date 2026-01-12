@@ -5,6 +5,6 @@ This repository contains my personal projects and exercises developed with **Jet
 ### Projects Focus:
 
 * **Modern UI:** Building layouts with Jetpack Compose.
+* * **Architecture:** Using ViewModels and State.
 * **Navigation:** Implementing screen-to-screen flow.
-* **Data:** Fetching information from APIs.
-* **Architecture:** Using ViewModels and State.
+* **Data:** Obtaining and using information from APIs.
