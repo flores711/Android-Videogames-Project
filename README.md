@@ -3,6 +3,10 @@
 A modern Android application built with **Kotlin** and **Jetpack Compose** that allows users to explore the most popular video games using the **IGDB API**.
 
 
+### App Demo Video
+**[Click here to watch the Demo Video](https://github.com/flores711/Android-Videogames-Project/releases/download/v1.0/Demo.Proyecto.Videojuegos.mp4)**
+
+
 ### Key Features
 
 * **Live Discovery:** Fetches and displays games ranked by popularity (based on review count) using the IGDB API.
